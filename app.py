@@ -106,7 +106,6 @@ default_path = "funnel_analysis_data.csv"
 
 try:
     raw_df = load_data(default_path)
-    st.sidebar.info("Using bundled sample dataset. Upload your own CSV to replace it.")
 except FileNotFoundError:
     st.sidebar.warning("Please upload a CSV file to get started.")
     st.stop()
