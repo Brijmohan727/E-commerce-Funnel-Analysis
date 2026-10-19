@@ -316,13 +316,6 @@ Contributions are welcome!
 4. 📤 Push: `git push origin feature/amazing-feature`
 5. 🔁 Open a Pull Request
 
----
-
-## 📜 License
-
-Distributed under the **MIT License**. See `LICENSE` for details.
-
----
 
 <div align="center">
 
